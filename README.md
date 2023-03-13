@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm jettzhang95
 
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
-I'm an front-end developer at HuaHill.
+I'm an front-end developer at Hill Info.
 
 - 🔭 I’m currently working with an awesome team to build an ERP system for Chinese pharmacies.
 - 🌱 I’m striving to become a node.js full-stack engineer every single day, in the meantime I'm learning Web3.

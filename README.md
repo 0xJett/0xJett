@@ -3,7 +3,7 @@
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
 I'm an front-end developer at MyShell.
 
-- 🔭 I’m currently working with an awesome team which aim to reshape the future of Web3 robot creation platforms, infinitely igniting creative potential.
+- 🔭 I’m currently working with an awesome team which aims to reshape the future of Web3 robot creation platforms, infinitely igniting creative potential.
 - 🌱 I’m striving to become a node.js full-stack engineer every single day, in the meantime I'm learning Web3.
 - 🥘 I’m cooking up some content and building a new portfolio.
 

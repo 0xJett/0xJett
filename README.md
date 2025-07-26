@@ -7,6 +7,8 @@ I'm an front-end developer at MyShell.
 - 🌱 I’m striving to become a web3 full-stack front-end engineer every single day, in the meantime I'm learning Node.js.
 - 🥘 I’m cooking up some content and building a new portfolio.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xJett&theme=solarized)
+
 ### Languages and tools:
 <img align="left" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,7 +30,7 @@ I'm an front-end developer at MyShell.
 More stuffs are comming soon!
 
 <!--
-**jettzhang95/jettzhang95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0xJett/0xJett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

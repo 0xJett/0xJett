@@ -7,7 +7,12 @@ I'm an front-end developer at MyShell.
 - 🌱 I’m striving to become a web3 full-stack front-end engineer every single day, in the meantime I'm learning Node.js.
 - 🥘 I’m cooking up some content and building a new portfolio.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xJett&theme=solarized)
+<div align="center" dir="auto">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xJett&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xJett&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xJett&theme=solarized)
+</div>
 
 ### Languages and tools:
 <img align="left" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

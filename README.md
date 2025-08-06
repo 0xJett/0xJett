@@ -1,14 +1,16 @@
 ### Hi there 👋 I'm Jett
 
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
-I'm a front-end developer at MyShell.
 
-- 🔭 I'm currently working with an awesome team which aims to reshape the future of Web3 robot creation platforms, infinitely igniting creative potential.
-- 🌱 I'm striving to become a web3 full-stack front-end engineer every single day, in the meantime I'm learning Node.js.
+I was a senior frontend engineer at <a target="_blank" href="https://myshell.ai">MyShell</a> over the past few years.
+
+I'm seeking for a frontend engineer job right now.
+
+- 🌱 I'm striving to become a web3 full-stack frontend engineer every single day, in the meantime I'm learning Node.js and Solidity.
 - 🥘 I'm cooking up some content and building a new portfolio.
 
 <div align="center" dir="auto">
-  
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xJett&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xJett&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xJett&theme=solarized)

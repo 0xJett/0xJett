@@ -1,13 +1,10 @@
-### Hi there 👋 I'm Jett
+# Hi there 👋 I'm Jett
 
-For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
+I'm a Senior Frontend Engineer with 8+ years of experience building modern web applications, focusing on React, Next.js, TypeScript, and frontend architecture.
 
-I was a senior frontend engineer at <a target="_blank" href="https://myshell.ai">MyShell</a> over the past few years.
+Previously worked on AI products at MyShell and fintech/blockchain applications at BitMart.
 
-I'm seeking for a frontend engineer job right now.
-
-- 🌱 I'm striving to become a web3 full-stack frontend engineer every single day, in the meantime I'm learning Node.js and Solidity.
-- 🥘 I'm cooking up some content and building a new portfolio.
+Currently exploring AI-powered applications, LLMs, and AI agent development.
 
 <div align="center" dir="auto">
 
